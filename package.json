@@ -1,5 +1,6 @@
 {
 	"author": "Chryssa Karatza",
+	"description": "A project to understand the basics of using npm and how to manage the installed dependencies",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
